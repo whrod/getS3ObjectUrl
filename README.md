@@ -6,10 +6,10 @@
 
 # Usage
 
-`npm i`
-`.env.sample`을 참고하여 `.env` 작성
-`node app.js`
-`_results` 폴더에 object url 리스트를 담은 json파일이 저장됨
+`npm i`   
+`.env.sample`을 참고하여 `.env` 작성   
+`node app.js`   
+`_results` 폴더에 object url 리스트를 담은 json파일이 저장됨    
 
 ### 참고
 
